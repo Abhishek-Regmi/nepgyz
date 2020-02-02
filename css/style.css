@@ -18,6 +18,13 @@
     color: darkgreen;
 
 }
-.carousel-inner{
-    height: 80%px;
+footer{
+    
+    background: orange ;
+}
+.cat{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: x-large;
 }
